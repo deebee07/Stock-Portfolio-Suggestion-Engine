@@ -1,0 +1,42 @@
+{
+  "Investment Strategies": [
+    "Ethical Investing","Growth Investing",
+    "Index Investing","Quality Investing",
+    "Value Investing"
+  ],
+ "Ethical Investing": {
+    "AAPL": "30",
+    "ADBE": "20",
+    "GOOG": "20",
+    "NKE": "20",
+    "JCI": "10"
+  },
+  "Growth Investing": {
+    "BIIB": "20",
+    "AVGO": "20",
+    "NFLX": "20",
+    "IMAX": "20",
+    "SFM": "20"
+  },
+  "Index Investing": {
+    "VTI": "30",
+    "IXUS": "30",
+    "ILTB": "30",
+    "^GSPC":"10"
+  },
+  "Quality Investing": {
+    "EME": "40",
+    "TSN": "10",
+    "ENS": "20",
+    "CVG": "30"
+  },
+  "Value Investing": {
+    "FDC": "10",
+    "TMUS": "10",
+    "HCA": "30",
+    "EXPE": "10",
+    "FDX": "10",
+    "CVS": "30"
+  }
+  
+}
