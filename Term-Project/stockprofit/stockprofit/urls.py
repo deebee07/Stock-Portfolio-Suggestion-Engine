@@ -16,12 +16,14 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.conf.urls import include
-from stockcalculate.views import home,getValue,investMoney,addData
+from stockcalculate.views import home,getValue,investMoney,addData,homepage
 
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$',home,name='home'),
+    url(r'^$',homepage,name='homepage'),
+    url(r'invested^$',home,name='home'),
+
     url(r'getvalue$',getValue,name='getValue'),
     url(r'adddata$',addData,name='addData'),
     url(r'investmoney$',investMoney,name='investMoney'),

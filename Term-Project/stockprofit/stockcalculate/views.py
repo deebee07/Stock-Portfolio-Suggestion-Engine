@@ -15,6 +15,11 @@ def home(request):
 	return render_to_response("stockcalculate/home.html")
 
 
+
+def homepage(request):
+	return render_to_response("stockcalculate/index.html")
+
+
 	#return render_to_response("home.html", {})
 
 

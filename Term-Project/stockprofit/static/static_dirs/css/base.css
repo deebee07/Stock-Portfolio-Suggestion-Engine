@@ -1,0 +1,205 @@
+@font-face {
+    font-family: 'Geogrotesque-Medium';
+    src: url('../fonts/GeogrotesqueSubset-Md.woff');
+}
+@font-face {
+    font-family: 'Avenir-Medium';
+    src: url('../fonts/AvenirNextLTW04-Medium.woff');
+}
+@font-face {
+    font-family: 'Avenir-Bold';
+    src: url('../fonts/AvenirNextLTW04-Demi.woff');
+}
+body {
+    font-family: 'Avenir-Medium';
+    width: 100%;
+    margin: 0%;
+    background: #F4F5F8;
+}
+h3 {
+    font-size: 22px;
+    margin-top: 10px;
+    font-family: 'Avenir-Bold';
+}
+
+h4 {
+    font-family: 'Avenir-Bold';
+    margin-bottom: 0px;
+    color: #6b6672;
+}
+
+.header {
+  background: #393A3D;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+}
+
+.header-title {
+  font-family: 'Geogrotesque-Medium';
+  font-size: 22px;
+  color: #FFF;
+  padding-left: 10px;
+}
+
+.btn {
+  margin: 0 5px 10px 0;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.logo {
+  padding: 5px 0 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: #2DA01C;
+    text-decoration: none;
+}
+
+#footer {
+    color: #FFF;
+    background: #393A3D;
+    font-family: 'Avenir-Medium';
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding: 15px 10px 15px 10px;
+}
+
+.selection {
+  width: 80%;
+}
+
+.menu {
+  font-family: 'Avenir-Medium';
+  font-size: 14px;
+  padding: 10px 0 10px 0;
+}
+
+.content {
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+}
+
+.chart {
+    /*display: table;*/
+    padding: 10px;
+    /*float: none;*/
+    margin-bottom: 10px;
+    /*background-color: #fff;*/
+}
+
+.workflows {
+    display: table;
+    padding: 10px;
+    float: none;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.selection {
+  margin-top: 150px;
+}
+
+.gutter-fix > [class*='col-'] {
+    padding-right:8px;
+    padding-left:8px;
+}
+
+#table-sparkline {
+    border-collapse: separate;
+    width: 100%;
+}
+
+td, th {
+    padding: 5px;
+    height: 30px;
+    font-weight: normal;
+}
+thead th {
+    border-bottom: 2px solid #D4D7DB;
+}
+.highcharts-tooltip>span {
+    background: white;
+    border: 1px solid silver;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px #d4d7dc;
+    padding: 8px;
+}
+
+.table-head {
+    font-family: 'Avenir-Bold';
+    font-size: 14px;
+    color: #393A3D;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index:200;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
