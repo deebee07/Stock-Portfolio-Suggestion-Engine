@@ -11,19 +11,37 @@ import json
 
 from pprint import pprint
 
-def home(request):
-	return render_to_response("stockcalculate/home.html")
+def addStock(request):
+	return render_to_response("stockcalculate/invest/add-stock.html")
 
 
 
 def homepage(request):
 	return render_to_response("stockcalculate/index.html")
 
+def login(request):
+	return render_to_response("stockcalculate/login.html")
+
+
+def portfolio(request):
+	return render_to_response("stockcalculate/portfolio/portfolio.html")
+
+
+def marketHome(request):
+	return render_to_response("stockcalculate/market/marketHome.html")
+
+def investHome(request):
+	return render_to_response("stockcalculate/invest/investHome.html")
+
+def trendHome(request):
+	return render_to_response("stockcalculate/trend/trendHome.html")
+
+
 
 	#return render_to_response("home.html", {})
 
 
-def investMoney(request):
+def investStrategy(request):
 	strArr=[]
 	with open('investment-strategy/strategy-stock.json') as data_file:
 		data = json.load(data_file)
@@ -32,7 +50,14 @@ def investMoney(request):
 
 	#print(data)
 
-	return render_to_response("stockcalculate/investForm.html",{'data':data["Investment Strategies"]})
+	return render_to_response("stockcalculate/invest/investStrategy.html",{'data':data["Investment Strategies"]})
+
+
+
+def investStock(request):
+	return render_to_response("stockcalculate/invest/investStock.html")
+
+
 
 @csrf_exempt
 def addData(request):

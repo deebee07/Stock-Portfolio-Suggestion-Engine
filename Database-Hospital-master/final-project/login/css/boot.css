@@ -1,0 +1,484 @@
+@font-face {
+    font-family: 'Geogrotesque-Medium';
+    src: url('../fonts/GeogrotesqueSubset-Md.woff');
+}
+@font-face {
+    font-family: 'Avenir-Medium';
+    src: url('../fonts/AvenirNextLTW04-Medium.woff');
+}
+@font-face {
+    font-family: 'Avenir-Bold';
+    src: url('../fonts/AvenirNextLTW04-Demi.woff');
+}
+body {
+    font-family: 'Avenir-Medium';
+    width: 100%;
+    margin: 0%;
+    background: #F4F5F8;
+}
+h3 {
+    font-size: 22px;
+    margin-top: 10px;
+    font-family: 'Avenir-Bold';
+}
+
+h4 {
+    font-family: 'Avenir-Bold';
+    margin-bottom: 0px;
+    color: #6b6672;
+}
+
+.header {
+  background: #393A3D;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+}
+
+.header-title {
+  font-family: 'Geogrotesque-Medium';
+  font-size: 22px;
+  color: #FFF;
+  padding-left: 10px;
+}
+
+.btn {
+  margin: 0 5px 10px 0;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.logo {
+  padding: 5px 0 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: #2DA01C;
+    text-decoration: none;
+}
+
+#footer {
+    color: #FFF;
+    background: #393A3D;
+    font-family: 'Avenir-Medium';
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding: 15px 10px 15px 10px;
+}
+
+.selection {
+  width: 80%;
+}
+
+.menu {
+  font-family: 'Avenir-Medium';
+  font-size: 14px;
+  padding: 10px 0 10px 0;
+}
+
+.content {
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+}
+
+.chart {
+    /*display: table;*/
+    padding: 10px;
+    /*float: none;*/
+    margin-bottom: 10px;
+    /*background-color: #fff;*/
+}
+
+.workflows {
+    display: table;
+    padding: 10px;
+    float: none;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.selection {
+  margin-top: 150px;
+}
+
+.gutter-fix > [class*='col-'] {
+    padding-right:8px;
+    padding-left:8px;
+}
+
+#table-sparkline {
+    border-collapse: separate;
+    width: 100%;
+}
+
+td, th {
+    padding: 5px;
+    height: 30px;
+    font-weight: normal;
+}
+thead th {
+    border-bottom: 2px solid #D4D7DB;
+}
+.highcharts-tooltip>span {
+    background: white;
+    border: 1px solid silver;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px #d4d7dc;
+    padding: 8px;
+}
+
+.table-head {
+    font-family: 'Avenir-Bold';
+    font-size: 14px;
+    color: #393A3D;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index:200;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+table, th, td {
+    border: 1px solid white;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 16px;
+}
+
+.profileImage {
+	
+	height:15%;
+	width:20%;
+	border: 4px solid white;
+	margin-left:4%;
+	
+}
+
+.formfirst {
+  background: #88888A;
+  padding: 40px;
+  max-width: 80%;
+  margin: 40px auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+	
+}
+
+@keyframes flickerAnimation {
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-o-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-moz-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+
+.formfirst1 {
+  background: #88888A;
+  padding: 40px;
+  max-width: 80%;
+  margin: 40px auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.alert{
+-webkit-animation: flickerAnimation 1s infinite;
+   -moz-animation: flickerAnimation 1s infinite;
+   -o-animation: flickerAnimation 1s infinite;
+    animation: flickerAnimation 1s infinite;
+}
+
+option {
+	background: rgba(19, 35, 47, 0.9);
+	width:60%;
+}
+
+a {
+  text-decoration: none;
+  color: #1ab188;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+}
+a:hover {
+  color: #179b77;
+}
+
+.form {
+  background: #88888A;
+  padding: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.tab-group {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.tab-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.tab-group li a {
+  display: block;
+  text-decoration: none;
+  padding: 15px;
+  background: rgba(160, 179, 176, 0.25);
+  color: #a0b3b0;
+  font-size: 20px;
+  float: left;
+  width: 50%;
+  text-align: center;
+  cursor: pointer;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+}
+.tab-group li a:hover {
+  background: #179b77;
+  color: #ffffff;
+}
+.tab-group .active a {
+  background: #1ab188;
+  color: #ffffff;
+}
+
+.tab-content > div:last-child {
+  display: none;
+}
+
+.inputclass{
+    width:40%;
+    float:left;
+}
+
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 300;
+  margin: 0 0 40px;
+}
+
+label {
+  position: absolute;
+  -webkit-transform: translateY(6px);
+          transform: translateY(6px);
+  left: 13px;
+  color: rgba(255, 255, 255, 0.5);
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+  font-size: 22px;
+}
+label .req {
+  margin: 2px;
+  color: #1ab188;
+}
+
+label.active {
+  -webkit-transform: translateY(50px);
+          transform: translateY(50px);
+  left: 2px;
+  font-size: 14px;
+}
+label.active .req {
+  opacity: 0;
+}
+
+label.highlight {
+  color: #ffffff;
+}
+
+input, textarea {
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px 10px;
+  background: none;
+  background-image: none;
+  border: 1px solid #a0b3b0;
+  color: #ffffff;
+  border-radius: 0;
+  -webkit-transition: border-color .25s ease, box-shadow .25s ease;
+  transition: border-color .25s ease, box-shadow .25s ease;
+}
+input:focus, textarea:focus {
+  outline: 0;
+  border-color: #1ab188;
+}
+
+.radio{	
+	position: relative;
+    margin-bottom: 40px;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 22px;	
+}
+
+.calender{	
+	position: relative;
+    width: 100%;
+    float:left;
+    margin-bottom: 10px;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 22px;	
+}
+
+.select{	
+	position: relative;
+    margin-bottom: 40px;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 22px;	
+}
+
+textarea {
+  border: 2px solid #a0b3b0;
+  resize: vertical;
+}
+
+.field-wrap {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.top-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.top-row > div {
+  float: left;
+  width: 90%;
+  margin-right: 4%;
+}
+.top-row > div:last-child {
+  margin: 0;
+}
+
+.button {
+  border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 15px 0;
+  font-size: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background: #393A3D;
+  color: #ffffff;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-appearance: none;
+}
+.button:hover, .button:focus {
+  background: #179b77;
+}
+
+.button-block {
+  display: block;
+  width: 100%;
+}
+
+.button-doctor {
+  
+  width: 24%;
+  margin-left:0%;
+   
+}
+
+.button-blocklogout {
+  display: block;
+  width: 100%;
+  
+}
+.forgot {
+  margin-top: -20px;
+  text-align: right;
+}
+
+.header {
+	background: rgba(19, 35, 47, 0.9);
+}

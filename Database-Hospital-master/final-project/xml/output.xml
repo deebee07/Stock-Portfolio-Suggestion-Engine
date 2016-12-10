@@ -1,0 +1,436 @@
+
+<response>
+<script id="tinyhippos-injected"/>
+<row>
+<row _id="1" _uuid="DA27662D-3AB1-46F5-93FC-8D8D7A964364" _position="1" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/1">
+<survey>CHS</survey>
+<question>Health Insurance Coverage</question>
+<year>2010</year>
+<prevalence>83.3</prevalence>
+<lower95_ci>82.0</lower95_ci>
+<upper95_ci>84.6</upper95_ci>
+</row>
+<row _id="2" _uuid="7B755650-27C4-40ED-8B6F-C6996F4FE674" _position="2" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/2">
+<survey>CHS</survey>
+<question>Did not get needed medical care</question>
+<year>2010</year>
+<prevalence>10.3</prevalence>
+<lower95_ci>9.4</lower95_ci>
+<upper95_ci>11.4</upper95_ci>
+</row>
+<row _id="3" _uuid="47AA852C-E9B5-462A-A150-FA0104D0E0AD" _position="3" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/3">
+<survey>CHS</survey>
+<question>No Personal Doctor</question>
+<year>2010</year>
+<prevalence>n/a</prevalence>
+<lower95_ci>n/a</lower95_ci>
+<upper95_ci>n/a</upper95_ci>
+</row>
+<row _id="4" _uuid="624777AF-5C72-454D-993A-EACD34E8E8A0" _position="4" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/4">
+<survey>CHS</survey>
+<question>Drinks 1 or more sugar-sweetened beverages per day</question>
+<year>2010</year>
+<prevalence>30.3</prevalence>
+<lower95_ci>28.8</lower95_ci>
+<upper95_ci>31.8</upper95_ci>
+</row>
+<row _id="5" _uuid="CF0D2030-A798-4699-8E70-8EADF58C1EB6" _position="5" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/5">
+<survey>CHS</survey>
+<question>Smoking Status (current smokers)</question>
+<year>2010</year>
+<prevalence>14.0</prevalence>
+<lower95_ci>12.9</lower95_ci>
+<upper95_ci>15.3</upper95_ci>
+</row>
+<row _id="6" _uuid="535A529A-D9DA-4752-9BE0-DD2AFC9872B5" _position="6" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/6">
+<survey>CHS</survey>
+<question>Binge Drinking</question>
+<year>2010</year>
+<prevalence>n/a</prevalence>
+<lower95_ci>n/a</lower95_ci>
+<upper95_ci>n/a</upper95_ci>
+</row>
+<row _id="7" _uuid="2864B283-A1FB-4D34-AC4B-B2A5DBEBDAED" _position="7" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/7">
+<survey>CHS</survey>
+<question>Obesity</question>
+<year>2010</year>
+<prevalence>23.4</prevalence>
+<lower95_ci>22.1</lower95_ci>
+<upper95_ci>24.8</upper95_ci>
+</row>
+<row _id="8" _uuid="22C00311-4BE6-4DF3-8EF0-F060D20CA37E" _position="8" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/8">
+<survey>CHS</survey>
+<question>
+Colon cancer screening, adults age 50+ (colonoscopy)
+</question>
+<year>2010</year>
+<prevalence>67.5</prevalence>
+<lower95_ci>65.4</lower95_ci>
+<upper95_ci>69.4</upper95_ci>
+</row>
+<row _id="9" _uuid="3E30B200-D345-49F3-B3E5-143C5150643F" _position="9" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/9">
+<survey>CHS</survey>
+<question>
+Self-reported Health Status (excellent/very good/good)
+</question>
+<year>2010</year>
+<prevalence>79.1</prevalence>
+<lower95_ci>77.8</lower95_ci>
+<upper95_ci>80.3</upper95_ci>
+</row>
+<row _id="10" _uuid="2C7FC37F-84F7-4062-A14E-2759EC011C7A" _position="10" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/10">
+<survey>CHS</survey>
+<question>
+Flu shot in last 12 months, adults ages 65+ (not age-adjusted)
+</question>
+<year>2010</year>
+<prevalence>62.3</prevalence>
+<lower95_ci>59.4</lower95_ci>
+<upper95_ci>65.1</upper95_ci>
+</row>
+<row _id="11" _uuid="077402DA-E048-441C-B80E-7B191C0092AE" _position="11" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/11">
+<survey>CHS</survey>
+<question>Health Insurance Coverage</question>
+<year>2011</year>
+<prevalence>81.4</prevalence>
+<lower95_ci>79.7</lower95_ci>
+<upper95_ci>83.0</upper95_ci>
+</row>
+<row _id="12" _uuid="E318A68D-B87A-477D-A16B-88EE2B867D50" _position="12" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/12">
+<survey>CHS</survey>
+<question>Did not get needed medical care</question>
+<year>2011</year>
+<prevalence>10.7</prevalence>
+<lower95_ci>9.6</lower95_ci>
+<upper95_ci>12.0</upper95_ci>
+</row>
+<row _id="13" _uuid="8302F486-4A40-4A0E-BC35-C329489C606B" _position="13" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/13">
+<survey>CHS</survey>
+<question>No Personal Doctor</question>
+<year>2011</year>
+<prevalence>16.9</prevalence>
+<lower95_ci>15.5</lower95_ci>
+<upper95_ci>18.5</upper95_ci>
+</row>
+<row _id="14" _uuid="7E64C382-AD04-48D6-81AF-0E6F0890F54B" _position="14" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/14">
+<survey>CHS</survey>
+<question>Drinks 1 or more sugar-sweetened beverages per day</question>
+<year>2011</year>
+<prevalence>29.9</prevalence>
+<lower95_ci>28.2</lower95_ci>
+<upper95_ci>31.7</upper95_ci>
+</row>
+<row _id="15" _uuid="5B4AB824-DDFC-4197-B314-832435F57A30" _position="15" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/15">
+<survey>CHS</survey>
+<question>Smoking Status (current smokers)</question>
+<year>2011</year>
+<prevalence>14.8</prevalence>
+<lower95_ci>13.5</lower95_ci>
+<upper95_ci>16.3</upper95_ci>
+</row>
+<row _id="16" _uuid="0D8873A2-5A01-4ADB-8516-0671F30A9EAA" _position="16" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/16">
+<survey>CHS</survey>
+<question>Binge Drinking</question>
+<year>2011</year>
+<prevalence>17.9</prevalence>
+<lower95_ci>16.4</lower95_ci>
+<upper95_ci>19.6</upper95_ci>
+</row>
+<row _id="17" _uuid="2E40A826-2F29-4678-AFE9-E8546107C074" _position="17" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/17">
+<survey>CHS</survey>
+<question>Obesity</question>
+<year>2011</year>
+<prevalence>23.7</prevalence>
+<lower95_ci>22.2</lower95_ci>
+<upper95_ci>25.3</upper95_ci>
+</row>
+<row _id="18" _uuid="0DA30ADE-CB2C-432C-90EF-EB7AA31D3537" _position="18" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/18">
+<survey>CHS</survey>
+<question>
+Colon cancer screening, adults age 50+ (colonoscopy)
+</question>
+<year>2011</year>
+<prevalence>68.6</prevalence>
+<lower95_ci>66.2</lower95_ci>
+<upper95_ci>70.8</upper95_ci>
+</row>
+<row _id="19" _uuid="8FEEC33E-4C19-4DCD-9468-52A406DCA9CD" _position="19" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/19">
+<survey>CHS</survey>
+<question>
+Self-reported Health Status (excellent/very good/good)
+</question>
+<year>2011</year>
+<prevalence>78.2</prevalence>
+<lower95_ci>76.7</lower95_ci>
+<upper95_ci>79.6</upper95_ci>
+</row>
+<row _id="20" _uuid="5CEE3C4C-8A52-4515-8141-05EE3D8F1F69" _position="20" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/20">
+<survey>CHS</survey>
+<question>
+Flu shot in last 12 months, adults ages 65+ (not age-adjusted)
+</question>
+<year>2011</year>
+<prevalence>67.4</prevalence>
+<lower95_ci>63.9</lower95_ci>
+<upper95_ci>70.7</upper95_ci>
+</row>
+<row _id="21" _uuid="3A20BDC1-58CD-4AF7-971A-C173FA97C929" _position="21" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/21">
+<survey>CHS</survey>
+<question>Health Insurance Coverage</question>
+<year>2012</year>
+<prevalence>80.2</prevalence>
+<lower95_ci>78.7</lower95_ci>
+<upper95_ci>81.5</upper95_ci>
+</row>
+<row _id="22" _uuid="030C43DA-D6CC-43AC-82D4-E26BF34EEFAD" _position="22" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/22">
+<survey>CHS</survey>
+<question>Did not get needed medical care</question>
+<year>2012</year>
+<prevalence>11.1</prevalence>
+<lower95_ci>10.1</lower95_ci>
+<upper95_ci>12.2</upper95_ci>
+</row>
+<row _id="23" _uuid="8B492745-0920-4211-84E6-D43FF768261D" _position="23" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/23">
+<survey>CHS</survey>
+<question>No Personal Doctor</question>
+<year>2012</year>
+<prevalence>18.3</prevalence>
+<lower95_ci>17.0</lower95_ci>
+<upper95_ci>19.7</upper95_ci>
+</row>
+<row _id="24" _uuid="21522662-CCEA-44EB-BC7B-F95BBA5C77F0" _position="24" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/24">
+<survey>CHS</survey>
+<question>Drinks 1 or more sugar-sweetened beverages per day</question>
+<year>2012</year>
+<prevalence>28.2</prevalence>
+<lower95_ci>26.7</lower95_ci>
+<upper95_ci>29.6</upper95_ci>
+</row>
+<row _id="25" _uuid="A9979E5E-FD00-4318-8FA2-DA1B5E63CDF3" _position="25" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/25">
+<survey>CHS</survey>
+<question>Smoking Status (current smokers)</question>
+<year>2012</year>
+<prevalence>15.5</prevalence>
+<lower95_ci>14.4</lower95_ci>
+<upper95_ci>16.8</upper95_ci>
+</row>
+<row _id="26" _uuid="DA1744F2-60A5-4352-B862-DDDB3820AAC6" _position="26" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/26">
+<survey>CHS</survey>
+<question>Binge Drinking</question>
+<year>2012</year>
+<prevalence>19.6</prevalence>
+<lower95_ci>18.2</lower95_ci>
+<upper95_ci>20.9</upper95_ci>
+</row>
+<row _id="27" _uuid="0D826337-B475-4F0A-B493-7398A19A30B2" _position="27" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/27">
+<survey>CHS</survey>
+<question>Obesity</question>
+<year>2012</year>
+<prevalence>24.2</prevalence>
+<lower95_ci>22.8</lower95_ci>
+<upper95_ci>25.5</upper95_ci>
+</row>
+<row _id="28" _uuid="A3FB0310-F0DB-4675-AA4C-BF5F7E73F61C" _position="28" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/28">
+<survey>CHS</survey>
+<question>
+Colon cancer screening, adults age 50+ (colonoscopy)
+</question>
+<year>2012</year>
+<prevalence>68.5</prevalence>
+<lower95_ci>66.3</lower95_ci>
+<upper95_ci>70.5</upper95_ci>
+</row>
+<row _id="29" _uuid="3271AA6F-7F6E-4F6E-B30D-348D66F13A33" _position="29" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/29">
+<survey>CHS</survey>
+<question>
+Self-reported Health Status (excellent/very good/good)
+</question>
+<year>2012</year>
+<prevalence>78.7</prevalence>
+<lower95_ci>77.5</lower95_ci>
+<upper95_ci>79.9</upper95_ci>
+</row>
+<row _id="30" _uuid="2D487A07-6A7D-4FB6-90C9-824C636344FE" _position="30" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/30">
+<survey>CHS</survey>
+<question>
+Flu shot in last 12 months, adults ages 65+ (not age-adjusted)
+</question>
+<year>2012</year>
+<prevalence>61.8</prevalence>
+<lower95_ci>58.5</lower95_ci>
+<upper95_ci>64.9</upper95_ci>
+</row>
+<row _id="31" _uuid="B3298507-0508-41F8-AE99-FBC3B0EB942D" _position="31" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/31">
+<survey>CHS</survey>
+<question>Health Insurance Coverage</question>
+<year>2013</year>
+<prevalence>79.1</prevalence>
+<lower95_ci>77.8</lower95_ci>
+<upper95_ci>80.3</upper95_ci>
+</row>
+<row _id="32" _uuid="C05ECBA5-5C38-4299-9464-C4053C103C57" _position="32" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/32">
+<survey>CHS</survey>
+<question>Did not get needed medical care</question>
+<year>2013</year>
+<prevalence>11.2</prevalence>
+<lower95_ci>10.3</lower95_ci>
+<upper95_ci>12.2</upper95_ci>
+</row>
+<row _id="33" _uuid="31FC8F39-4763-4A7E-8AE3-6F0A32C9CA4D" _position="33" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/33">
+<survey>CHS</survey>
+<question>No Personal Doctor</question>
+<year>2013</year>
+<prevalence>19.1</prevalence>
+<lower95_ci>18.0</lower95_ci>
+<upper95_ci>20.3</upper95_ci>
+</row>
+<row _id="34" _uuid="87627C20-C04B-4E4F-B913-23C77EF44C0B" _position="34" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/34">
+<survey>CHS</survey>
+<question>Drinks 1 or more sugar-sweetened beverages per day</question>
+<year>2013</year>
+<prevalence>23.3</prevalence>
+<lower95_ci>22.1</lower95_ci>
+<upper95_ci>24.6</upper95_ci>
+</row>
+<row _id="35" _uuid="8B36470C-262E-48D9-BBEA-DEA78F69DF14" _position="35" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/35">
+<survey>CHS</survey>
+<question>Smoking Status (current smokers)</question>
+<year>2013</year>
+<prevalence>16.1</prevalence>
+<lower95_ci>15.0</lower95_ci>
+<upper95_ci>17.2</upper95_ci>
+</row>
+<row _id="36" _uuid="1155871A-AFB1-4E61-8FB1-F2A58B347A83" _position="36" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/36">
+<survey>CHS</survey>
+<question>Binge Drinking</question>
+<year>2013</year>
+<prevalence>18.2</prevalence>
+<lower95_ci>17.0</lower95_ci>
+<upper95_ci>19.4</upper95_ci>
+</row>
+<row _id="37" _uuid="BE9BC4DF-4784-4B4B-B63A-C29B8EFB96E1" _position="37" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/37">
+<survey>CHS</survey>
+<question>Obesity</question>
+<year>2013</year>
+<prevalence>23.4</prevalence>
+<lower95_ci>22.2</lower95_ci>
+<upper95_ci>24.7</upper95_ci>
+</row>
+<row _id="38" _uuid="9F0EF4FF-4173-4578-983C-5316D280ECD2" _position="38" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/38">
+<survey>CHS</survey>
+<question>
+Colon cancer screening, adults age 50+ (colonoscopy)
+</question>
+<year>2013</year>
+<prevalence>69.0</prevalence>
+<lower95_ci>67.0</lower95_ci>
+<upper95_ci>71.0</upper95_ci>
+</row>
+<row _id="39" _uuid="E42A4F3F-C4C8-426D-8C88-0972409EECFC" _position="39" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/39">
+<survey>CHS</survey>
+<question>
+Self-reported Health Status (excellent/very good/good)
+</question>
+<year>2013</year>
+<prevalence>76.9</prevalence>
+<lower95_ci>75.7</lower95_ci>
+<upper95_ci>78.0</upper95_ci>
+</row>
+<row _id="40" _uuid="13B7E5BD-7149-425C-B9AB-2B1DDBFB7235" _position="40" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/40">
+<survey>CHS</survey>
+<question>
+Flu shot in last 12 months, adults ages 65+ (not age-adjusted)
+</question>
+<year>2013</year>
+<prevalence>66.8</prevalence>
+<lower95_ci>63.7</lower95_ci>
+<upper95_ci>69.8</upper95_ci>
+</row>
+<row _id="41" _uuid="1D5719AD-F8F8-4799-9545-7CC8D4E3134F" _position="41" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/41">
+<survey>CHS</survey>
+<question>Health Insurance Coverage</question>
+<year>2014</year>
+<prevalence>86.2</prevalence>
+<lower95_ci>85.2</lower95_ci>
+<upper95_ci>87.2</upper95_ci>
+</row>
+<row _id="42" _uuid="91308A8A-E9C9-4069-BAAF-7AF8DA8B08FD" _position="42" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/42">
+<survey>CHS</survey>
+<question>Did not get needed medical care</question>
+<year>2014</year>
+<prevalence>9.6</prevalence>
+<lower95_ci>8.7</lower95_ci>
+<upper95_ci>10.5</upper95_ci>
+</row>
+<row _id="43" _uuid="2C5B0A33-DFF7-46BD-9B24-B73128D87D80" _position="43" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/43">
+<survey>CHS</survey>
+<question>No Personal Doctor</question>
+<year>2014</year>
+<prevalence>15.6</prevalence>
+<lower95_ci>14.5</lower95_ci>
+<upper95_ci>16.7</upper95_ci>
+</row>
+<row _id="44" _uuid="9D8CC08B-1A63-4A51-ACC1-37F602A11352" _position="44" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/44">
+<survey>CHS</survey>
+<question>Drinks 1 or more sugar-sweetened beverages per day</question>
+<year>2014</year>
+<prevalence>22.5</prevalence>
+<lower95_ci>21.2</lower95_ci>
+<upper95_ci>23.8</upper95_ci>
+</row>
+<row _id="45" _uuid="CB422143-5D4B-4051-BBBB-6DBD46533A10" _position="45" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/45">
+<survey>CHS</survey>
+<question>Smoking Status (current smokers)</question>
+<year>2014</year>
+<prevalence>13.9</prevalence>
+<lower95_ci>12.8</lower95_ci>
+<upper95_ci>14.9</upper95_ci>
+</row>
+<row _id="46" _uuid="C7984AD7-22FD-4307-A6CF-F759CBE0FF07" _position="46" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/46">
+<survey>CHS</survey>
+<question>Binge Drinking</question>
+<year>2014</year>
+<prevalence>16.5</prevalence>
+<lower95_ci>15.4</lower95_ci>
+<upper95_ci>17.7</upper95_ci>
+</row>
+<row _id="47" _uuid="CBD8BF73-4BFD-4AEE-BD0F-6024D6C5C887" _position="47" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/47">
+<survey>CHS</survey>
+<question>Obesity</question>
+<year>2014</year>
+<prevalence>24.7</prevalence>
+<lower95_ci>23.4</lower95_ci>
+<upper95_ci>26.0</upper95_ci>
+</row>
+<row _id="48" _uuid="3D818245-0E42-4C29-82E7-9C4C1E2D6E8C" _position="48" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/48">
+<survey>CHS</survey>
+<question>
+Colon cancer screening, adults age 50+ (colonoscopy)
+</question>
+<year>2014</year>
+<prevalence>69.9</prevalence>
+<lower95_ci>67.8</lower95_ci>
+<upper95_ci>72.0</upper95_ci>
+</row>
+<row _id="49" _uuid="8F93FFEA-6CCD-4992-BA73-8B5B2E366053" _position="49" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/49">
+<survey>CHS</survey>
+<question>
+Self-reported Health Status (excellent/very good/good)
+</question>
+<year>2014</year>
+<prevalence>77.8</prevalence>
+<lower95_ci>76.6</lower95_ci>
+<upper95_ci>78.9</upper95_ci>
+</row>
+<row _id="50" _uuid="46D6EBA8-E03B-4F98-A36C-7F569E239BB7" _position="50" _address="http://data.cityofnewyork.us/resource/_2r9r-m6j4/50">
+<survey>CHS</survey>
+<question>
+Flu shot in last 12 months, adults ages 65+ (not age-adjusted)
+</question>
+<year>2014</year>
+<prevalence>64.2</prevalence>
+<lower95_ci>60.7</lower95_ci>
+<upper95_ci>67.6</upper95_ci>
+</row>
+</row>
+</response>

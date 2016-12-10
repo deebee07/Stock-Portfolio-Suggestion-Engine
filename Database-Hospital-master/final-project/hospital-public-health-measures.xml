@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+<script id="tinyhippos-injected"/>
+<row>
+<row _id="1" _uuid="FEAF65D3-6CC3-4700-993B-3B7684DFE3F5" _position="1" _address="http://data.medicare.gov/resource/_98ix-2iqy/1">
+<state>AK</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>5</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>14</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="2" _uuid="8FA736EC-7404-47D3-9A89-AAF930C7CC1C" _position="2" _address="http://data.medicare.gov/resource/_98ix-2iqy/2">
+<state>AK</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>4</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>14</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="3" _uuid="D0C603B4-7113-49FD-A4C1-796F50A79675" _position="3" _address="http://data.medicare.gov/resource/_98ix-2iqy/3">
+<state>AK</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>3</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="4" _uuid="177E4DE0-06B8-4F8C-A700-E893522CA3E7" _position="4" _address="http://data.medicare.gov/resource/_98ix-2iqy/4">
+<state>AL</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>36</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>46</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="5" _uuid="E9724450-4D62-4E87-8FD3-B52001D53F39" _position="5" _address="http://data.medicare.gov/resource/_98ix-2iqy/5">
+<state>AL</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>18</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>58</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>14</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="6" _uuid="21CCF1F1-133E-4B61-9945-8FF8D82544D4" _position="6" _address="http://data.medicare.gov/resource/_98ix-2iqy/6">
+<state>AL</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>25</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>55</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="7" _uuid="125FA243-5C7A-426D-B5BB-E2F5A9156271" _position="7" _address="http://data.medicare.gov/resource/_98ix-2iqy/7">
+<state>AR</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>23</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>42</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="8" _uuid="E1A08183-FDBD-414D-94C5-E96371F60DD7" _position="8" _address="http://data.medicare.gov/resource/_98ix-2iqy/8">
+<state>AR</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>56</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>9</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="9" _uuid="C0239EF1-0160-48D4-8646-1B9A2DAEC731" _position="9" _address="http://data.medicare.gov/resource/_98ix-2iqy/9">
+<state>AR</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>52</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>10</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>3</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="10" _uuid="F3E23262-4324-4C9E-82C7-C1640BD9FC40" _position="10" _address="http://data.medicare.gov/resource/_98ix-2iqy/10">
+<state>AS</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="11" _uuid="F2E3426C-EAF6-41FE-8448-83E7ABEC2A72" _position="11" _address="http://data.medicare.gov/resource/_98ix-2iqy/11">
+<state>AS</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="12" _uuid="C726C4DC-DC32-4984-9BAC-AA5045611B40" _position="12" _address="http://data.medicare.gov/resource/_98ix-2iqy/12">
+<state>AS</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="13" _uuid="8EE4054E-166E-4126-9A97-C8AC567046E6" _position="13" _address="http://data.medicare.gov/resource/_98ix-2iqy/13">
+<state>AZ</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>40</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>20</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="14" _uuid="9EBC14B6-78CE-44D0-B1F3-DEA809D6EA83" _position="14" _address="http://data.medicare.gov/resource/_98ix-2iqy/14">
+<state>AZ</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>29</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>17</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>22</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="15" _uuid="190E629C-606C-4FE0-85D6-28CB71B8E875" _position="15" _address="http://data.medicare.gov/resource/_98ix-2iqy/15">
+<state>AZ</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>49</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="16" _uuid="2CD0F0F8-7FDA-4EA8-9D60-D6C06661DB13" _position="16" _address="http://data.medicare.gov/resource/_98ix-2iqy/16">
+<state>CA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>166</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>33</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>108</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="17" _uuid="1807E447-34E4-4CAE-9A34-88CBB145F2BC" _position="17" _address="http://data.medicare.gov/resource/_98ix-2iqy/17">
+<state>CA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>18</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>163</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>83</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>67</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="18" _uuid="1348B801-B153-49EC-8CE8-9A1F114A7AD9" _position="18" _address="http://data.medicare.gov/resource/_98ix-2iqy/18">
+<state>CA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>34</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>176</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>63</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>61</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="19" _uuid="C2E978EE-2955-4BDC-A7A4-DB8FEFF4B9D0" _position="19" _address="http://data.medicare.gov/resource/_98ix-2iqy/19">
+<state>CO</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>28</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>36</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="20" _uuid="B43DFB03-C46B-4A97-B202-99CEC91EDEFB" _position="20" _address="http://data.medicare.gov/resource/_98ix-2iqy/20">
+<state>CO</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>46</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>24</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="21" _uuid="B1D1ADCA-3300-4462-85A5-F11411A85607" _position="21" _address="http://data.medicare.gov/resource/_98ix-2iqy/21">
+<state>CO</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>52</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>12</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="22" _uuid="32BA8647-2AE5-4DBD-BCC5-E79F2D4481D9" _position="22" _address="http://data.medicare.gov/resource/_98ix-2iqy/22">
+<state>CT</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>24</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="23" _uuid="430883B5-6911-49A0-BFA7-92D52A1CBDC3" _position="23" _address="http://data.medicare.gov/resource/_98ix-2iqy/23">
+<state>CT</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>17</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>13</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="24" _uuid="A5C47978-991C-49B9-A368-8C01444998EF" _position="24" _address="http://data.medicare.gov/resource/_98ix-2iqy/24">
+<state>CT</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>23</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>7</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="25" _uuid="A5846E9F-4C24-47A8-B864-1B87773693BA" _position="25" _address="http://data.medicare.gov/resource/_98ix-2iqy/25">
+<state>DC</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>6</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="26" _uuid="164E7B76-3518-49E3-84CE-72B2C3945D07" _position="26" _address="http://data.medicare.gov/resource/_98ix-2iqy/26">
+<state>DC</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>4</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="27" _uuid="EC47F53C-9ED5-4034-A4E3-BD7FBADA22E1" _position="27" _address="http://data.medicare.gov/resource/_98ix-2iqy/27">
+<state>DC</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>6</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="28" _uuid="72411EB7-CF66-47B0-A223-A1F68D408273" _position="28" _address="http://data.medicare.gov/resource/_98ix-2iqy/28">
+<state>DE</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>4</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="29" _uuid="74143760-7BDD-4780-832B-244269AEBEFE" _position="29" _address="http://data.medicare.gov/resource/_98ix-2iqy/29">
+<state>DE</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>4</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="30" _uuid="49CC2A4C-1E43-4539-AAAF-788401987593" _position="30" _address="http://data.medicare.gov/resource/_98ix-2iqy/30">
+<state>DE</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>2</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="31" _uuid="0BCDADC3-0DF3-4C99-9BC8-F34ECF9005BF" _position="31" _address="http://data.medicare.gov/resource/_98ix-2iqy/31">
+<state>FL</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>130</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>21</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>25</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="32" _uuid="3E5B526A-17C4-4EF9-B7CF-D9F3392419D9" _position="32" _address="http://data.medicare.gov/resource/_98ix-2iqy/32">
+<state>FL</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>95</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>79</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="33" _uuid="54C4314B-2037-4618-9385-C9C0F98D4719" _position="33" _address="http://data.medicare.gov/resource/_98ix-2iqy/33">
+<state>FL</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>138</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>35</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>6</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="34" _uuid="FD90A602-379E-425F-A6D8-3CF5F4ECC8F8" _position="34" _address="http://data.medicare.gov/resource/_98ix-2iqy/34">
+<state>GA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>61</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>57</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="35" _uuid="572EFEB3-BD64-4FE3-83E7-6090F63E8124" _position="35" _address="http://data.medicare.gov/resource/_98ix-2iqy/35">
+<state>GA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>30</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>76</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>29</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="36" _uuid="F34A9A80-FAE8-4F1D-AC7A-B30EBC0AEC2E" _position="36" _address="http://data.medicare.gov/resource/_98ix-2iqy/36">
+<state>GA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>22</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>98</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>17</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="37" _uuid="CC13A5C7-F57D-49E5-B746-4523672087A4" _position="37" _address="http://data.medicare.gov/resource/_98ix-2iqy/37">
+<state>GU</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="38" _uuid="F2723515-D4D5-464A-992C-E36964C0933C" _position="38" _address="http://data.medicare.gov/resource/_98ix-2iqy/38">
+<state>GU</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="39" _uuid="924C8869-47F4-4F85-BF08-A7B298E5CB2E" _position="39" _address="http://data.medicare.gov/resource/_98ix-2iqy/39">
+<state>GU</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="40" _uuid="F3047C1A-C967-4A73-84A7-3A6DE868C782" _position="40" _address="http://data.medicare.gov/resource/_98ix-2iqy/40">
+<state>HI</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>7</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>3</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="41" _uuid="DAE5836B-38C3-4B8F-A872-2BA3962F222D" _position="41" _address="http://data.medicare.gov/resource/_98ix-2iqy/41">
+<state>HI</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>10</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>3</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="42" _uuid="341AA56C-73B8-4BC0-AE4E-CCE78175C79C" _position="42" _address="http://data.medicare.gov/resource/_98ix-2iqy/42">
+<state>HI</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>9</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>6</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="43" _uuid="6230CDAD-3449-4210-9285-B6B72B8EC141" _position="43" _address="http://data.medicare.gov/resource/_98ix-2iqy/43">
+<state>IA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>25</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>79</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="44" _uuid="954C9C9E-52D5-4981-B7B6-0D3D6DA2EC7B" _position="44" _address="http://data.medicare.gov/resource/_98ix-2iqy/44">
+<state>IA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>69</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>32</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="45" _uuid="87F87A8D-CE0F-41B6-B1FB-82EF74A455AA" _position="45" _address="http://data.medicare.gov/resource/_98ix-2iqy/45">
+<state>IA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>19</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>75</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>17</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="46" _uuid="84C22371-36DE-4A7E-9587-ED75EA5AB11B" _position="46" _address="http://data.medicare.gov/resource/_98ix-2iqy/46">
+<state>ID</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>8</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>24</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="47" _uuid="62927936-1F4F-4F00-961D-6879F292BD0D" _position="47" _address="http://data.medicare.gov/resource/_98ix-2iqy/47">
+<state>ID</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>18</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>19</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="48" _uuid="C075D6C7-77CB-4032-852E-952D5E3EAF97" _position="48" _address="http://data.medicare.gov/resource/_98ix-2iqy/48">
+<state>ID</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>21</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="49" _uuid="C863071B-17F5-407B-92C1-BDE254605A4A" _position="49" _address="http://data.medicare.gov/resource/_98ix-2iqy/49">
+<state>IL</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>90</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>18</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>66</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="50" _uuid="ADB78EFC-16FA-411B-A2E3-A4F93D2DB439" _position="50" _address="http://data.medicare.gov/resource/_98ix-2iqy/50">
+<state>IL</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>20</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>120</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>29</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>9</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="51" _uuid="17C50A00-5A37-4DD7-9221-6C233849BF9C" _position="51" _address="http://data.medicare.gov/resource/_98ix-2iqy/51">
+<state>IL</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>18</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>134</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>21</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="52" _uuid="153B4BA7-58BE-4E57-8088-1AB35B325C20" _position="52" _address="http://data.medicare.gov/resource/_98ix-2iqy/52">
+<state>IN</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>57</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>48</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="53" _uuid="820A0209-9A61-4938-B91E-35DD8194C442" _position="53" _address="http://data.medicare.gov/resource/_98ix-2iqy/53">
+<state>IN</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>93</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>13</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="54" _uuid="719889F5-F56C-4B23-B201-AC42B7FEF080" _position="54" _address="http://data.medicare.gov/resource/_98ix-2iqy/54">
+<state>IN</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>91</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>12</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>7</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="55" _uuid="12D636A3-D744-4A29-91FD-48CD27C39E2C" _position="55" _address="http://data.medicare.gov/resource/_98ix-2iqy/55">
+<state>KS</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>19</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>92</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="56" _uuid="3D5245A5-061F-44FE-A785-39CA67F8ADE2" _position="56" _address="http://data.medicare.gov/resource/_98ix-2iqy/56">
+<state>KS</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>62</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>7</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>55</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="57" _uuid="5806B38E-C4DD-4CC7-9A3F-A3E8D8EBEB3A" _position="57" _address="http://data.medicare.gov/resource/_98ix-2iqy/57">
+<state>KS</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>12</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>72</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>27</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>17</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="58" _uuid="BA8827B3-7E7B-4B76-B88F-55C40E1CF5BC" _position="58" _address="http://data.medicare.gov/resource/_98ix-2iqy/58">
+<state>KY</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>43</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>47</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="59" _uuid="2D2EEC95-B626-435B-B4B7-6B5FBCFBD995" _position="59" _address="http://data.medicare.gov/resource/_98ix-2iqy/59">
+<state>KY</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>67</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>6</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>11</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="60" _uuid="0DE836BC-CB9A-4BC7-B095-EA98C3B91BDB" _position="60" _address="http://data.medicare.gov/resource/_98ix-2iqy/60">
+<state>KY</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>27</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>59</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>8</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="61" _uuid="081062CD-CA2A-4E8D-81F7-93A7985C10B9" _position="61" _address="http://data.medicare.gov/resource/_98ix-2iqy/61">
+<state>LA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>36</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>49</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="62" _uuid="CED795AF-9500-42DE-AF1E-A9EFDCC14E97" _position="62" _address="http://data.medicare.gov/resource/_98ix-2iqy/62">
+<state>LA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>71</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>7</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>23</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="63" _uuid="D70E56B4-59D3-4A1C-BBE1-C75B35CB3D62" _position="63" _address="http://data.medicare.gov/resource/_98ix-2iqy/63">
+<state>LA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>57</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>26</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>16</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="64" _uuid="27F0F081-8618-4ED1-9C9D-4502456F69FA" _position="64" _address="http://data.medicare.gov/resource/_98ix-2iqy/64">
+<state>MA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>42</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>8</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>9</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="65" _uuid="368657BE-DC17-4F54-A17E-4FDCBEBE8123" _position="65" _address="http://data.medicare.gov/resource/_98ix-2iqy/65">
+<state>MA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>44</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>16</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="66" _uuid="6FF00C35-41B0-423F-AAEA-2A66B11697DA" _position="66" _address="http://data.medicare.gov/resource/_98ix-2iqy/66">
+<state>MA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>48</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>10</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="67" _uuid="A6EAED77-8F46-4D65-826B-54CA3CA0D9F7" _position="67" _address="http://data.medicare.gov/resource/_98ix-2iqy/67">
+<state>MD</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<footnote>
+4 - Data suppressed by CMS for one or more quarters.
+</footnote>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="68" _uuid="B638AEBB-6479-4F82-8F63-93BC1B818AC4" _position="68" _address="http://data.medicare.gov/resource/_98ix-2iqy/68">
+<state>MD</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<footnote>
+4 - Data suppressed by CMS for one or more quarters.
+</footnote>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="69" _uuid="40B6606F-7354-49BA-B1D2-A4435F31BC9D" _position="69" _address="http://data.medicare.gov/resource/_98ix-2iqy/69">
+<state>MD</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<footnote>
+4 - Data suppressed by CMS for one or more quarters.
+</footnote>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="70" _uuid="1782C8C7-C629-4B88-B412-32E121F2A89C" _position="70" _address="http://data.medicare.gov/resource/_98ix-2iqy/70">
+<state>ME</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>21</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>9</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="71" _uuid="F705B848-F0DF-40C4-8E6F-BF673C2BBA5B" _position="71" _address="http://data.medicare.gov/resource/_98ix-2iqy/71">
+<state>ME</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>26</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="72" _uuid="3A14FA79-91F8-4E78-8277-964808319049" _position="72" _address="http://data.medicare.gov/resource/_98ix-2iqy/72">
+<state>ME</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>26</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="73" _uuid="C1E01CFD-FB2E-4D31-B61D-DC1F805E91F6" _position="73" _address="http://data.medicare.gov/resource/_98ix-2iqy/73">
+<state>MI</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>62</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>50</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="74" _uuid="05BBB628-A41C-4412-B087-2D2DF1C2BD2D" _position="74" _address="http://data.medicare.gov/resource/_98ix-2iqy/74">
+<state>MI</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>84</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>18</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>15</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="75" _uuid="F1AF2082-DD91-4EE0-9451-AADD2C8013EE" _position="75" _address="http://data.medicare.gov/resource/_98ix-2iqy/75">
+<state>MI</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>18</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>95</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>9</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>4</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="76" _uuid="E6C80104-93EE-4C51-820C-F43CFA5E67A1" _position="76" _address="http://data.medicare.gov/resource/_98ix-2iqy/76">
+<state>MN</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>23</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>86</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="77" _uuid="998A6C0E-11E6-4CFB-8CAC-FC4D53B88294" _position="77" _address="http://data.medicare.gov/resource/_98ix-2iqy/77">
+<state>MN</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>65</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>57</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="78" _uuid="048AE87D-8432-440E-B7EE-107861AE145D" _position="78" _address="http://data.medicare.gov/resource/_98ix-2iqy/78">
+<state>MN</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>79</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>38</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="79" _uuid="1218B265-0D87-4C0D-82DD-5E14C11CD4A4" _position="79" _address="http://data.medicare.gov/resource/_98ix-2iqy/79">
+<state>MO</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>48</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>51</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="80" _uuid="472181D6-4D2E-40F3-A5CB-8F1355D033C5" _position="80" _address="http://data.medicare.gov/resource/_98ix-2iqy/80">
+<state>MO</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>73</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>12</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>19</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="81" _uuid="C14DB0DA-D060-40DD-B15B-B87D0C9A335D" _position="81" _address="http://data.medicare.gov/resource/_98ix-2iqy/81">
+<state>MO</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>18</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>72</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>17</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="82" _uuid="07BC2A9F-A1DA-46F1-BE11-D4F107E3FDFF" _position="82" _address="http://data.medicare.gov/resource/_98ix-2iqy/82">
+<state>MP</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="83" _uuid="B7B24CD0-73D4-4746-AC98-BDE1F9EB28C2" _position="83" _address="http://data.medicare.gov/resource/_98ix-2iqy/83">
+<state>MP</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="84" _uuid="65F2CD0A-8099-4F70-908C-2A8512836562" _position="84" _address="http://data.medicare.gov/resource/_98ix-2iqy/84">
+<state>MP</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>0</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="85" _uuid="BFE09404-4513-4EFE-B708-03DBBF683AB2" _position="85" _address="http://data.medicare.gov/resource/_98ix-2iqy/85">
+<state>MS</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>17</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>54</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="86" _uuid="BCD71792-EF59-4C72-8B99-5A501F316240" _position="86" _address="http://data.medicare.gov/resource/_98ix-2iqy/86">
+<state>MS</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>63</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>18</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="87" _uuid="0359D939-74B3-4824-AAA2-002A27F8AFC8" _position="87" _address="http://data.medicare.gov/resource/_98ix-2iqy/87">
+<state>MS</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>15</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>60</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>12</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="88" _uuid="7FF68DF6-0FED-40AB-B4A5-80AA1267FF42" _position="88" _address="http://data.medicare.gov/resource/_98ix-2iqy/88">
+<state>MT</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>9</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>32</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="89" _uuid="FF4CF07A-0767-4D38-B2C7-E0E3A371F0AA" _position="89" _address="http://data.medicare.gov/resource/_98ix-2iqy/89">
+<state>MT</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>15</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>35</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="90" _uuid="8BD194ED-A9BA-4A0C-BC90-7F0BF4CC18FE" _position="90" _address="http://data.medicare.gov/resource/_98ix-2iqy/90">
+<state>MT</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>12</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>26</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>21</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="91" _uuid="04A5AF67-914F-419F-91C3-E55BFAD17F7F" _position="91" _address="http://data.medicare.gov/resource/_98ix-2iqy/91">
+<state>NC</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>17</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>55</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>32</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="92" _uuid="F2D4B315-4DD0-4DD5-B223-9E3D98BA1735" _position="92" _address="http://data.medicare.gov/resource/_98ix-2iqy/92">
+<state>NC</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>20</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>76</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>11</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="93" _uuid="6EFC30DD-477D-443C-A3F5-D6B353927E10" _position="93" _address="http://data.medicare.gov/resource/_98ix-2iqy/93">
+<state>NC</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>25</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>71</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>6</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="94" _uuid="D01A146E-F3DD-4D54-8F74-D1BFE3E6105C" _position="94" _address="http://data.medicare.gov/resource/_98ix-2iqy/94">
+<state>ND</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>7</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>30</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="95" _uuid="8DCEF3AF-AF1B-43D7-81AC-885ACF8022F7" _position="95" _address="http://data.medicare.gov/resource/_98ix-2iqy/95">
+<state>ND</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>17</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>23</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="96" _uuid="4DCFC501-CE23-4807-ACD7-521810BEF08D" _position="96" _address="http://data.medicare.gov/resource/_98ix-2iqy/96">
+<state>ND</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>27</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="97" _uuid="3369C39A-8413-4251-A774-0844287461A1" _position="97" _address="http://data.medicare.gov/resource/_98ix-2iqy/97">
+<state>NE</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>13</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>6</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>52</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="98" _uuid="47C3C03A-BE54-4C4F-9DB9-B083E4F97677" _position="98" _address="http://data.medicare.gov/resource/_98ix-2iqy/98">
+<state>NE</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>33</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>45</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="99" _uuid="CBC52FEA-CD32-44F7-B6B4-2882FB6E684C" _position="99" _address="http://data.medicare.gov/resource/_98ix-2iqy/99">
+<state>NE</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>56</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>10</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>15</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="100" _uuid="E72E101E-9458-49EC-A081-539AFA371025" _position="100" _address="http://data.medicare.gov/resource/_98ix-2iqy/100">
+<state>NH</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>16</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="101" _uuid="0A68A81B-0FDF-45AE-8635-E118DCA4E43B" _position="101" _address="http://data.medicare.gov/resource/_98ix-2iqy/101">
+<state>NH</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>21</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="102" _uuid="3289A983-BF95-42A7-AE11-F829FEF3BAA1" _position="102" _address="http://data.medicare.gov/resource/_98ix-2iqy/102">
+<state>NH</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>22</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="103" _uuid="0C23F259-9777-48F6-A878-6F3937935D5A" _position="103" _address="http://data.medicare.gov/resource/_98ix-2iqy/103">
+<state>NJ</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>26</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>37</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="104" _uuid="53A5E8C9-6B31-4785-96E0-F887410A219D" _position="104" _address="http://data.medicare.gov/resource/_98ix-2iqy/104">
+<state>NJ</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>13</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>49</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="105" _uuid="C46A9161-7F81-4C47-BB6D-7E0390B60C83" _position="105" _address="http://data.medicare.gov/resource/_98ix-2iqy/105">
+<state>NJ</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>39</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>25</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="106" _uuid="34A45869-1671-4916-95D8-D9D3590FFAD3" _position="106" _address="http://data.medicare.gov/resource/_98ix-2iqy/106">
+<state>NM</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>11</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>25</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="107" _uuid="91A73FD8-3B12-425E-A0D6-CBF59CBBDDC1" _position="107" _address="http://data.medicare.gov/resource/_98ix-2iqy/107">
+<state>NM</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>12</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>18</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>9</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="108" _uuid="B3D631E0-BCDC-40AF-BAA7-0B7821EB4F70" _position="108" _address="http://data.medicare.gov/resource/_98ix-2iqy/108">
+<state>NM</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>17</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>19</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>4</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="109" _uuid="C7D58487-99E2-47C2-B7E7-6D4A99E93C55" _position="109" _address="http://data.medicare.gov/resource/_98ix-2iqy/109">
+<state>NV</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>14</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>11</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="110" _uuid="0DC227F6-B96E-44BB-83EE-2D3E5244AF18" _position="110" _address="http://data.medicare.gov/resource/_98ix-2iqy/110">
+<state>NV</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>4</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>12</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>10</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>6</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="111" _uuid="8620ED37-5883-491E-8267-C10A39E31AB0" _position="111" _address="http://data.medicare.gov/resource/_98ix-2iqy/111">
+<state>NV</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>10</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>12</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="112" _uuid="5C144576-34E2-4D63-8455-43466DD62A21" _position="112" _address="http://data.medicare.gov/resource/_98ix-2iqy/112">
+<state>NY</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>13</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>110</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>14</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>31</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="113" _uuid="FC7D8498-CB0B-444D-B63A-1FFA5C8DF3D9" _position="113" _address="http://data.medicare.gov/resource/_98ix-2iqy/113">
+<state>NY</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>29</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>96</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>36</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>12</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="114" _uuid="FF8A5039-9ED4-4773-BFF3-5E83BABFC075" _position="114" _address="http://data.medicare.gov/resource/_98ix-2iqy/114">
+<state>NY</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>46</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>107</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>13</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="115" _uuid="5162320D-E814-4891-947A-43DDBD8D1E6C" _position="115" _address="http://data.medicare.gov/resource/_98ix-2iqy/115">
+<state>OH</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>86</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>12</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>54</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="116" _uuid="322D6A70-3069-45E9-A5E8-28107B99ADAB" _position="116" _address="http://data.medicare.gov/resource/_98ix-2iqy/116">
+<state>OH</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>115</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>29</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>11</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="117" _uuid="58489B75-CFB9-44EA-B4B7-38EC8F8DBE59" _position="117" _address="http://data.medicare.gov/resource/_98ix-2iqy/117">
+<state>OH</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>114</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>32</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>6</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="118" _uuid="5F899983-864F-4F35-86C1-325B9E73E8CD" _position="118" _address="http://data.medicare.gov/resource/_98ix-2iqy/118">
+<state>OK</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>26</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>64</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="119" _uuid="F87E798F-795B-4349-B800-4F8C03B431CF" _position="119" _address="http://data.medicare.gov/resource/_98ix-2iqy/119">
+<state>OK</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>12</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>61</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>38</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="120" _uuid="A7F4D332-349D-4DA9-B713-006C9EB71F7B" _position="120" _address="http://data.medicare.gov/resource/_98ix-2iqy/120">
+<state>OK</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>27</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>68</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>9</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="121" _uuid="04A936B0-68F3-4BCB-8218-729CD17454E3" _position="121" _address="http://data.medicare.gov/resource/_98ix-2iqy/121">
+<state>OR</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>19</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>34</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="122" _uuid="5828D1D2-1E33-4181-A5D1-1CCAF5A880B6" _position="122" _address="http://data.medicare.gov/resource/_98ix-2iqy/122">
+<state>OR</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>12</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>38</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="123" _uuid="2C5583F1-C059-4631-A62F-7E21B74408DD" _position="123" _address="http://data.medicare.gov/resource/_98ix-2iqy/123">
+<state>OR</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>23</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>32</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>4</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="124" _uuid="E049E842-B158-41AD-9A2C-06A43A985358" _position="124" _address="http://data.medicare.gov/resource/_98ix-2iqy/124">
+<state>PA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>102</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>11</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>36</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="125" _uuid="77EBE687-4587-4F11-92BD-99D139A96384" _position="125" _address="http://data.medicare.gov/resource/_98ix-2iqy/125">
+<state>PA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>109</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>35</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>8</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="126" _uuid="62A15679-45CB-440B-8554-6F207D871F64" _position="126" _address="http://data.medicare.gov/resource/_98ix-2iqy/126">
+<state>PA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>17</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>112</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>23</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="127" _uuid="7B904E83-2A9F-4795-950E-7D0B412BCA82" _position="127" _address="http://data.medicare.gov/resource/_98ix-2iqy/127">
+<state>PR</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>7</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>32</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="128" _uuid="3A8F0D6D-1757-4F5D-B1B7-1321C213BD65" _position="128" _address="http://data.medicare.gov/resource/_98ix-2iqy/128">
+<state>PR</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>13</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>27</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="129" _uuid="DC339E74-A3A3-4296-8A5F-95FF2917CA93" _position="129" _address="http://data.medicare.gov/resource/_98ix-2iqy/129">
+<state>PR</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>16</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>25</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="130" _uuid="FE39067F-7FA4-45C4-80B4-B543CCC76150" _position="130" _address="http://data.medicare.gov/resource/_98ix-2iqy/130">
+<state>RI</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>7</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="131" _uuid="E0B2AA58-920C-4724-B476-27FEF04042EC" _position="131" _address="http://data.medicare.gov/resource/_98ix-2iqy/131">
+<state>RI</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>7</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="132" _uuid="92C4822C-0758-4C6A-B55D-29B9EECA33A4" _position="132" _address="http://data.medicare.gov/resource/_98ix-2iqy/132">
+<state>RI</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>10</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="133" _uuid="F6930752-8A3B-4DE7-874C-F110B3233F81" _position="133" _address="http://data.medicare.gov/resource/_98ix-2iqy/133">
+<state>SC</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>27</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>24</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="134" _uuid="4D723288-64DC-4122-95B0-996EEE812B6B" _position="134" _address="http://data.medicare.gov/resource/_98ix-2iqy/134">
+<state>SC</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>41</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="135" _uuid="C2D22623-5B5F-49A5-B622-66043FA6EBA6" _position="135" _address="http://data.medicare.gov/resource/_98ix-2iqy/135">
+<state>SC</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>13</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>43</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="136" _uuid="6EF7A681-0AC0-471D-B321-E241CD98F78A" _position="136" _address="http://data.medicare.gov/resource/_98ix-2iqy/136">
+<state>SD</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>10</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>30</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="137" _uuid="7DD76F28-D904-43A1-8ED5-EB43780779AF" _position="137" _address="http://data.medicare.gov/resource/_98ix-2iqy/137">
+<state>SD</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>18</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>33</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="138" _uuid="E5AF24CA-FE43-45FC-BFB8-FBF8A191E2B9" _position="138" _address="http://data.medicare.gov/resource/_98ix-2iqy/138">
+<state>SD</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>35</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>10</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="139" _uuid="FEA70FD8-76F6-4187-8E7C-EEFC3047482A" _position="139" _address="http://data.medicare.gov/resource/_98ix-2iqy/139">
+<state>TN</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>49</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>52</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="140" _uuid="5C24918A-6399-4C7D-9D29-E3C408068E6B" _position="140" _address="http://data.medicare.gov/resource/_98ix-2iqy/140">
+<state>TN</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>88</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>17</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="141" _uuid="E27E1843-15E3-4EB5-8982-0B71E65C0629" _position="141" _address="http://data.medicare.gov/resource/_98ix-2iqy/141">
+<state>TN</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>15</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>82</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>7</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>12</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="142" _uuid="6F5F7533-532E-4546-861C-0B6843B55E33" _position="142" _address="http://data.medicare.gov/resource/_98ix-2iqy/142">
+<state>TX</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>137</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>28</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>159</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="143" _uuid="26B96BFA-6FE6-4EF9-B4A5-BFBD58AF4D01" _position="143" _address="http://data.medicare.gov/resource/_98ix-2iqy/143">
+<state>TX</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>178</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>83</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>95</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="144" _uuid="F659249A-2375-475E-B209-36251A35AF65" _position="144" _address="http://data.medicare.gov/resource/_98ix-2iqy/144">
+<state>TX</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>32</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>206</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>78</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>67</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="145" _uuid="56803B19-37A0-4E4F-9ED6-6FF1B2DC3D58" _position="145" _address="http://data.medicare.gov/resource/_98ix-2iqy/145">
+<state>UT</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>12</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>19</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="146" _uuid="3547877C-D0DE-4C5B-8E8E-F20DDB81B936" _position="146" _address="http://data.medicare.gov/resource/_98ix-2iqy/146">
+<state>UT</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>21</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>18</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="147" _uuid="A202DC31-CE21-429E-848E-3C086BAB9DDB" _position="147" _address="http://data.medicare.gov/resource/_98ix-2iqy/147">
+<state>UT</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>14</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>23</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>5</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="148" _uuid="44776922-B76E-4C0E-AFBF-2518F11B10CD" _position="148" _address="http://data.medicare.gov/resource/_98ix-2iqy/148">
+<state>VA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>9</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>51</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>15</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="149" _uuid="38150F88-37FB-495F-9917-113377816B84" _position="149" _address="http://data.medicare.gov/resource/_98ix-2iqy/149">
+<state>VA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>6</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>64</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>9</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>2</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="150" _uuid="1F95463A-1BBF-4D6E-AED7-B2468A9897D0" _position="150" _address="http://data.medicare.gov/resource/_98ix-2iqy/150">
+<state>VA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>13</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>62</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>4</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="151" _uuid="A7C28FC1-5D94-411D-95C0-9CBA5E332FA3" _position="151" _address="http://data.medicare.gov/resource/_98ix-2iqy/151">
+<state>VI</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>1</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="152" _uuid="1AF1C5FA-2A07-4224-867F-A53B094DA9E7" _position="152" _address="http://data.medicare.gov/resource/_98ix-2iqy/152">
+<state>VI</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>2</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="153" _uuid="0B80D26C-A1C1-4389-B539-C177695F2FCB" _position="153" _address="http://data.medicare.gov/resource/_98ix-2iqy/153">
+<state>VI</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>1</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="154" _uuid="8BC8D96C-41B8-4949-9468-C1F186F54AC5" _position="154" _address="http://data.medicare.gov/resource/_98ix-2iqy/154">
+<state>VT</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>11</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>3</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="155" _uuid="81CBA7C2-4645-47F9-BD4C-878642F16AB7" _position="155" _address="http://data.medicare.gov/resource/_98ix-2iqy/155">
+<state>VT</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>2</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>11</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="156" _uuid="35688104-F386-4138-A0E7-2D41F9EA01FB" _position="156" _address="http://data.medicare.gov/resource/_98ix-2iqy/156">
+<state>VT</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>6</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>0</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="157" _uuid="C35B3AB3-8213-44EA-A540-A38FE35DF28A" _position="157" _address="http://data.medicare.gov/resource/_98ix-2iqy/157">
+<state>WA</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>34</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>34</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="158" _uuid="08DE3F18-5383-46D7-A868-BC8A7F89AE60" _position="158" _address="http://data.medicare.gov/resource/_98ix-2iqy/158">
+<state>WA</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>49</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>24</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="159" _uuid="DC42B71D-EB3D-413D-B53D-FC0B89D12614" _position="159" _address="http://data.medicare.gov/resource/_98ix-2iqy/159">
+<state>WA</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>10</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>58</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>5</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>15</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="160" _uuid="963DA518-5DE2-4D7D-AB05-817B56F867D2" _position="160" _address="http://data.medicare.gov/resource/_98ix-2iqy/160">
+<state>WI</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>48</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>68</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="161" _uuid="C25C92FD-CD6D-439E-B295-A6B4FA37DD50" _position="161" _address="http://data.medicare.gov/resource/_98ix-2iqy/161">
+<state>WI</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>11</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>91</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>3</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>15</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="162" _uuid="228AB61A-363D-4A15-BA2C-32373CB29930" _position="162" _address="http://data.medicare.gov/resource/_98ix-2iqy/162">
+<state>WI</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>20</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>90</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>4</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>6</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="163" _uuid="8303018B-0C26-44B9-98C5-95337204ED3D" _position="163" _address="http://data.medicare.gov/resource/_98ix-2iqy/163">
+<state>WV</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>3</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>19</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>25</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="164" _uuid="73EE28DE-F17D-4AAD-BB11-A5F71643CE32" _position="164" _address="http://data.medicare.gov/resource/_98ix-2iqy/164">
+<state>WV</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>5</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>30</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>2</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>12</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="165" _uuid="47C06B8A-9A21-45E2-BFC8-59B426093153" _position="165" _address="http://data.medicare.gov/resource/_98ix-2iqy/165">
+<state>WV</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>7</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>40</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>1</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="166" _uuid="B266B798-00A3-42A9-B296-BCC8C7A07CF3" _position="166" _address="http://data.medicare.gov/resource/_98ix-2iqy/166">
+<state>WY</state>
+<measure_name>Payment for heart attack patients</measure_name>
+<measure_id>PAYM_30_AMI</measure_id>
+<number_of_less_than_national_payment>0</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>4</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>17</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="167" _uuid="D2DD7F58-F3D6-4BF5-871C-A8D9B197FE83" _position="167" _address="http://data.medicare.gov/resource/_98ix-2iqy/167">
+<state>WY</state>
+<measure_name>Payment for heart failure patients</measure_name>
+<measure_id>PAYM_30_HF</measure_id>
+<number_of_less_than_national_payment>1</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>12</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>0</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>14</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+<row _id="168" _uuid="F69AB4F8-92BC-487F-B414-659CB8600E71" _position="168" _address="http://data.medicare.gov/resource/_98ix-2iqy/168">
+<state>WY</state>
+<measure_name>Payment for pneumonia patients</measure_name>
+<measure_id>PAYM_30_PN</measure_id>
+<number_of_less_than_national_payment>8</number_of_less_than_national_payment>
+<number_of_same_as_national_payment>14</number_of_same_as_national_payment>
+<number_of_greater_than_national_payment>1</number_of_greater_than_national_payment>
+<number_of_hospitals_too_few>4</number_of_hospitals_too_few>
+<measure_start_date>2012-07-01T00:00:00</measure_start_date>
+<measure_end_date>2015-06-30T00:00:00</measure_end_date>
+</row>
+</row>
+</response>
