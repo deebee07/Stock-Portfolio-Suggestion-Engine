@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.conf.urls import include
-from stockcalculate.views import getValue,investStrategy,addData,homepage,login,portfolio,marketHome, investHome,trendHome,addStock,investStock,register
+from stockcalculate.views import getValue,investStrategy,addData,homepage,login,portfolio,marketHome, investHome,trendHome,addStock,investStock,register,change,forgot
 
 
 urlpatterns = [
@@ -24,6 +24,8 @@ urlpatterns = [
     url(r'^$',homepage,name='homepage'), #Homepage of Website
     url(r'login$',login,name='login'), #Logged in user Home
     url(r'signup$',register,name='register'),
+    url(r'forgot$',forgot,name='forgot'),
+    url(r'change$',change,name='change'),
 
 #PORTFOLIO
 #url(r'portfolio/(?P<username>[\w\-]+)/$',portfolio,name='portfolio'),

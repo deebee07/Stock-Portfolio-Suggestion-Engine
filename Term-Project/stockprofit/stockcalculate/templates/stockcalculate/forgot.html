@@ -36,20 +36,22 @@
       <div class="container">
         <div class="content">
        
-      
-      
+      <form action="/" class="inline">
+    <button class="float-left submit-button" >Back to Home</button>
+</form>
+ 
       <div class="tab-content">
-        <div style="width:65%;float:left;"  id="signup">   
+        <div style="width:65%;float:left;"  id="change">   
           <h1> Stock Engine Sign Up </h1>
           
-          <form style="margin-top:8%;" action="/signup" method="get" enctype="multipart/form-data">
+          <form style="margin-top:8%;" action="/change" method="get" enctype="multipart/form-data">
           
           <div class="top-row">
             <div class="field-wrap">
               <div style="width:15%;float:left;"><label>
                 User Name<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="name" id="name" required autocomplete="off" />
+              <input style="width:35%;margin-bottom:5px;" type="text" name="inname" id="inname" required autocomplete="off" />
 
                
             </div>
@@ -58,66 +60,35 @@
               <div style="width:15%;float:left;"><label>
                 Email Address<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="email" name="email" id="email" />
+              <input style="width:35%;margin-bottom:5px;" type="inemail" name="inemail" id="email" />
+               
+            </div>
+
+            <div class="top-row">
+            <div class="field-wrap">
+              <div style="width:15%;float:left;"><label>
+                Password<span class="req">*</span>
+             </label></div>
+              <input style="width:35%;margin-bottom:5px;" type="password" name="password1" id="password1" required autocomplete="off" />
+               
+            </div>
+        
+              <div class="field-wrap">
+              <div style="width:15%;float:left;"><label>
+                Re-enter<span class="req">*</span>
+             </label></div>
+              <input style="width:35%;margin-bottom:5px;" type="password" name="password2" id="password2" />
                
             </div>
           
-              
-            <div class="field-wrap">
-              <div style="width:15%;float:left;"><label>
-              Set a Password<span class="req">*</span>
-             </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="password" name="password" id="password" required autocomplete="off"/>
-               
-            </div>
 
-
-            <div class="field-wrap">
-              <div style="width:15%;float:left;"><label>
-              Repeat-Pass<span class="req">*</span>
-             </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="password" name="password1" id="password1" required autocomplete="off"/>
-               
-            </div>
          
-      <button style="width:50%;background-color:#393A3D;color:white;margin-top:3px;" type="submit" class="button button-block"/>Get Started</button>
+      <button style="width:50%;background-color:#393A3D;color:white;margin-top:3px;" type="submit" class="button button-block"/>Submit</button>
           
           </form>
 
         </div>
 
-        <br>
-        <br>
-        <br>
-        <br>
-
-        <div style="width:50%;float:left;margin-top:1%;background-color:#99999B" id="login">   
-          <div style="margin-left:4%;"><h1>Login</h1>
-          
-          <form action="/login" method="get" enctype="multipart/form-data">
-          
-            <div class="field-wrap">
-            <div style="width:34%;float:left;"><label>
-              Username<span class="req">*</span>
-            </label></div>
-            <input style="width:60%;margin-bottom:10px;" type="text" name="loginname" id="loginname" required autocomplete="off"/>
-          </div>
-          
-          <div class="field-wrap">
-            <div style="width:34%;float:left;"><label>
-              Password<span class="req">*</span>
-            </label></div>
-            <input style="width:60%;" type="password" name="loginpassword" id="loginpassword" required autocomplete="off"/>
-          </div>
-          
-            <div style="margin-top:10px;" class="field-wrap"> 
-          </div> 
-           <a href="/forgot" action="/forgot"><small>Forgot Password?</small></a>
-          <center><button style="width:50%;background-color:#393A3D;color:white;margin-top:3px;" name="submit" type="submit" class="button button-block"/>Log In</button></center><br/>
-          
-          </form>
-            </div>
-        </div>
         
       </div><!-- tab-content -->
       

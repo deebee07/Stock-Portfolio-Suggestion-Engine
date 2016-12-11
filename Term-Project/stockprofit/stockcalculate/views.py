@@ -152,7 +152,6 @@ def getValue(request):
 
 	raise Http404
 
-
 @csrf_exempt
 def login(request):
 	connection = sqlite3.connect('login.db')
@@ -183,17 +182,47 @@ def register(request):
 	user_name=request.GET['name']
 	user_email=request.GET['email']
 	user_password=request.GET['password']
-	# print user_name
-	# print user_password
-	# print user_email
-	cursor.execute('''INSERT INTO login(Username,Email,Password) values(?,?,?)''', (user_name,user_email,user_password))
-	connection.commit()
-	connection.close()
+	user_repassword=request.GET['password1']
+	print user_repassword
+	try:
+		if (user_password==user_repassword):
+			cursor.execute('''INSERT INTO login(Username,Email,Password) values(?,?,?)''', (user_name,user_email,user_password))
+			connection.commit()
+			connection.close()
+			return render_to_response("stockcalculate/signup.html")
+	except Exception as exp:
+		return render_to_response("stockcalculate/passwordmatch.html")
+	else:
+		return render_to_response("stockcalculate/passwordmatch.html")
 
-	return render_to_response("stockcalculate/signup.html")
 
+def forgot(request):
+	return render_to_response("stockcalculate/forgot.html")
 
-
+def change(request):
+	connection = sqlite3.connect('login.db')
+	cursor=connection.cursor()
+	in_name=request.GET['inname']
+	in_email=request.GET['inemail']
+	user_pass1=request.GET['password1']
+	user_pass2=request.GET['password2']
+	cursor.execute('SELECT Username from login where Username = ?',(in_name,))
+	try:
+		user1=cursor.fetchall()[0][0]
+	except Exception as inst:
+		return render_to_response("stockcalculate/invaliduser.html")
+	if (in_name==user1):
+		cursor.execute('SELECT Email from login where Username = ?',(in_name,))
+		eml=cursor.fetchall()[0][0]
+		if(in_email!=eml):
+			return render_to_response("stockcalculate/invalidemail.html")
+		elif (in_email==eml and user_pass1==user_pass2):
+			cursor.execute("""UPDATE login SET Password = ? WHERE Username= ? """,(user_pass1,in_name,))
+			connection.commit()
+			connection.close()
+			return render_to_response("stockcalculate/index.html")
+		else:
+			return render_to_response("stockcalculate/passwordmatch.html")
 
 def getComma(f):
     s = str(abs(f))
