@@ -37,25 +37,32 @@
   </div>
 
 
+
+
 <div class="container">
   <div class="content">
+
+    <div class="row">
+      <div class="col-md-12">
+        <h3><b style="color:#008000"><b>{{username}}</b> can invest in following ways</h3>
+  </div>
     <div class="selection center-block">
       <div class="row">
 
 
         <div class="col-sm-4">
-          <div class="row"><a href="investstrategy"><img class="center-block" src="/static/img/strategy.png" height="250" width="250"></a></div>
-          <div class="row"><h4 class="text-center"><a href="/investstrategy" style="color:#6b6c72;" >Invest in Strategy</a></h4></div>
+          <div class="row"><a href="/investstrategy?username={{username}}"><img class="center-block" src="/static/img/strategy.png" height="250" width="250"></a></div>
+          <div class="row"><h4 class="text-center"><a href="/investstrategy?username={{username}}" style="color:#6b6c72;" >Invest in Strategy</a></h4></div>
         </div>
 
         <div class="col-sm-4">
-          <div class="row center-block"><a href="/investstock"><img class="center-block" src="/static/img/stock.png" height="250" width="250"><a></div>
-          <div class="row"><h4 class="text-center"><a href="/investstock" style="color:#6b6c72;">Invest in Stocks</a></h4></div>
+          <div class="row center-block"><a href="/investstock?username={{username}}"><img class="center-block" src="/static/img/stock.png" height="250" width="250"><a></div>
+          <div class="row"><h4 class="text-center"><a href="/investstock?username={{username}}" style="color:#6b6c72;">Invest in Stocks</a></h4></div>
         </div>
 
         <div class="col-sm-4">
-          <div class="row center-block"><a href="/addstock"><img class="center-block" src="/static/img/exist-stock.png" height="250" width="250"></a></div>
-          <div class="row"><h4 class="text-center"><a href="/addstock" style="color:#6b6c72;">Add pre-existing Stocks</a></h4></div>
+          <div class="row center-block"><a href="/addstock?username={{username}}"><img class="center-block" src="/static/img/exist-stock.png" height="250" width="250"></a></div>
+          <div class="row"><h4 class="text-center"><a href="/addstock?username={{username}}" style="color:#6b6c72;">Add pre-existing Stocks</a></h4></div>
         </div>
 
 

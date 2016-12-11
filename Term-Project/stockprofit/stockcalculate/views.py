@@ -35,7 +35,9 @@ def marketHome(request):
 	return render_to_response("stockcalculate/market/marketHome.html")
 
 def investHome(request):
-	return render_to_response("stockcalculate/invest/investHome.html")
+	username=request.GET["username"]
+
+	return render_to_response("stockcalculate/invest/investHome.html",{'username':username})
 
 def trendHome(request):
 	return render_to_response("stockcalculate/trend/trendHome.html")
@@ -45,17 +47,19 @@ def trendHome(request):
 
 def investStrategy(request):
 	strArr=[]
+	username=request.GET["username"]
 	with open('investment-strategy/strategy-stock.json') as data_file:
 		data = json.load(data_file)
 
 	print data["Investment Strategies"]
 
-	return render_to_response("stockcalculate/invest/investStrategy.html",{'data':data["Investment Strategies"]})
+	return render_to_response("stockcalculate/invest/investStrategy.html",{'data':data["Investment Strategies"],'username':username})
 
 
 
 def investStock(request):
-	return render_to_response("stockcalculate/invest/investStock.html")
+	username=request.GET["username"]
+	return render_to_response("stockcalculate/invest/investStock.html",{'username':username})
 
 
 
@@ -63,9 +67,10 @@ def investStock(request):
 def addData(request):
 	amount= request.POST['amount']
 	strategy= request.POST['strategy']
+	username=request.GET["username"]
 	print amount
 	print strategy
-	return render_to_response("stockcalculate/addedStocks.html")
+	return render_to_response("stockcalculate/addedStocks.html",{'username':username})
 
 
 @csrf_exempt
