@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from django.shortcuts import render_to_response
 from django.http import Http404
+import sqlite3
 
 from django.utils import timezone
 from django.views.decorators.csrf import ensure_csrf_cookie
@@ -19,12 +20,15 @@ def addStock(request):
 def homepage(request):
 	return render_to_response("stockcalculate/index.html")
 
-def login(request):
-	return render_to_response("stockcalculate/login.html")
+# def login(request):
+
+# 	return render_to_response("stockcalculate/login.html",{'username':"rajeev"})
 
 
 def portfolio(request):
-	return render_to_response("stockcalculate/portfolio/portfolio.html")
+	username=request.GET["username"]
+	print username
+	return render_to_response("stockcalculate/portfolio/portfolio.html",{'username':username})
 
 
 def marketHome(request):
@@ -38,8 +42,6 @@ def trendHome(request):
 
 
 
-	#return render_to_response("home.html", {})
-
 
 def investStrategy(request):
 	strArr=[]
@@ -47,8 +49,6 @@ def investStrategy(request):
 		data = json.load(data_file)
 
 	print data["Investment Strategies"]
-
-	#print(data)
 
 	return render_to_response("stockcalculate/invest/investStrategy.html",{'data':data["Investment Strategies"]})
 
@@ -148,6 +148,48 @@ def getValue(request):
 	raise Http404
 
 
+@csrf_exempt
+def login(request):
+	connection = sqlite3.connect('login.db')
+	cursor=connection.cursor()
+	login_user_name=request.GET['loginname']
+	login_user_password=request.GET['loginpassword']
+	cursor.execute('SELECT Username from login where Username = ?',(login_user_name,))
+	try:
+		usr=cursor.fetchall()[0][0]
+	except Exception as inst:
+		return render_to_response("stockcalculate/failure.html")
+
+	if (login_user_name==usr):
+		cursor.execute('SELECT Password from login where Username = ?',(login_user_name,))
+		pwd=cursor.fetchall()[0][0]
+		if (login_user_password==pwd):
+			return render_to_response("stockcalculate/login.html",{'username':login_user_name})
+		elif (login_user_password!=pwd):
+			return render_to_response("stockcalculate/failure.html")
+		# print usr
+	elif (login_user_name!=usr):
+		return render_to_response("stockcalculate/failure.html")
+
+def register(request):
+
+	connection = sqlite3.connect('login.db')
+	cursor=connection.cursor()
+	user_name=request.GET['name']
+	user_email=request.GET['email']
+	user_password=request.GET['password']
+	# print user_name
+	# print user_password
+	# print user_email
+	cursor.execute('''INSERT INTO login(Username,Email,Password) values(?,?,?)''', (user_name,user_email,user_password))
+	connection.commit()
+	connection.close()
+
+	return render_to_response("stockcalculate/signup.html")
+
+
+
+
 def getComma(f):
     s = str(abs(f))
     decimalposition = s.find(".") 
@@ -165,5 +207,7 @@ def getComma(f):
     if f < 0:
         comma_to_number = "-"+comma_to_number
     return comma_to_number
+
+
 
 

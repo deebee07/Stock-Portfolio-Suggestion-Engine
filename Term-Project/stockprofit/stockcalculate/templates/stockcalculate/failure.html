@@ -47,87 +47,6 @@
     </style>
 
 </head>
-
-<script type="text/javascript">
-$(function () {
-    Highcharts.chart('container', {
-        title: {
-            text: 'Portfolio Value'
-        },
-        xAxis: {
-            categories: ['Day 1', 'Day 2', 'Day 3', 'Yesterday', 'Today']
-        },
-        labels: {
-            items: [{
-                html: 'Total Portfolio Value',
-                style: {
-                    left: '50px',
-                    top: '18px',
-                    color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
-                }
-            }]
-        },
-        credits: {
-    enabled: false
-  },
-        series: [{
-            type: 'column',
-            name: 'Portfolio Value',
-            data: [3, 2, 1, 3, 4]
-        }, {
-            type: 'spline',
-            name: 'Trend',
-            data: [3, 2, 1, 3, 4],
-            marker: {
-                lineWidth: 2,
-                lineColor: Highcharts.getOptions().colors[3],
-                fillColor: 'white'
-            }
-        }]
-    });
-});
-
-
-    </script>
-
-    <script type="text/javascript">
-$(function () {
-    Highcharts.chart('container2', {
-        chart: {
-            type: 'bar'
-        },
-        title: {
-            text: 'Investment breakdown'
-        },
-
-        credits: {
-    enabled: false
-  },
-        xAxis: {
-            categories: ['Stock 1', 'Stock 2', 'Stock 3', 'Stock 4', 'Stock 5']
-        },
-        yAxis: {
-            min: 0,
-            title: {
-                text: ''
-            }
-        },
-        legend: {
-            reversed: true
-        },
-        plotOptions: {
-            series: {
-                stacking: 'normal'
-            }
-        },
-        series: [{
-            name: 'Number of Stocks',
-            color:(Highcharts.theme && Highcharts.theme.textColor) || 'green',
-            data: [5, 3, 4, 7, 2]
-        }]
-    });
-});
-    </script>
 <body>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -154,10 +73,21 @@ $(function () {
   <div class="content">
     <div class="row">
       <div class="col-md-12">
-        <h3><b style="color:#008000">PORTFOLIO of {{username}}</b></h3>
+        <h3><b style="color:#008000">Login Failed</b></h3>
   </div>
 </div>
 
+<div class="container-fluid" action="/forgotpass">
+  <div class="content">
+    <div class="row">
+      <div class="col-md-12">
+        <h3><b style="color:#008000"><a href="stockcalculate/forgotpassword.html">forgot password</a></b></h3>
+  </div>
+</div>
+
+<form action="/" class="inline">
+    <button class="float-left submit-button" >Back to Homepage</button>
+</form>
 <div class="row">
   <div class="col-md-6">
     <div class="row">

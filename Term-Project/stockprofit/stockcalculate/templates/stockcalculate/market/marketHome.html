@@ -4,7 +4,9 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Performance Trend</title>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+     <script src="http://code.highcharts.com/stock/highstock.src.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
  
 
@@ -34,6 +36,9 @@
     }</script>
 
 
+
+
+
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <style type="text/css">
 #container, #sliders {
@@ -47,14 +52,134 @@
     </style>
 
 </head>
+
+<script type="text/javascript">
+$(function () {
+    $.getJSON('https://www.highcharts.com/samples/data/jsonp.php?filename=aapl-c.json&callback=?', function (data) {
+
+        // Create the chart
+        Highcharts.stockChart('container', {
+            chart: {
+                type: 'area'
+            },
+
+            rangeSelector: {
+                selected: 1
+            },
+
+            title: {
+                text: 'AAPL Stock Price'
+            },
+
+        credits: {
+    enabled: false
+  },
+
+            yAxis: {
+                reversed: true,
+                showFirstLabel: false,
+                showLastLabel: true
+            },
+
+            series: [{
+                name: 'AAPL Stock Price',
+                data: data,
+                threshold: null,
+                fillColor: {
+                    linearGradient: {
+                        x1: 0,
+                        y1: 1,
+                        x2: 0,
+                        y2: 0
+                    },
+                    stops: [
+                        [0, Highcharts.getOptions().colors[0]],
+                        [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                    ]
+                },
+                tooltip: {
+                    valueDecimals: 2
+                }
+            }]
+        });
+    });
+});
+    </script>
+
+
+
+    <script type="text/javascript">
+$(function () {
+    Highcharts.chart('container2', {
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+
+        title: {
+            text: 'Browser market shares January, 2015 to May, 2015'
+        },
+
+
+
+        credits: {
+    enabled: false
+  },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Brands',
+            colorByPoint: true,
+            data: [{
+                name: 'Microsoft Internet Explorer',
+                y: 56.33
+            }, {
+                name: 'Chrome',
+                y: 24.03,
+                sliced: true,
+                selected: true
+            }, {
+                name: 'Firefox',
+                y: 10.38
+            }, {
+                name: 'Safari',
+                y: 4.77
+            }, {
+                name: 'Opera',
+                y: 0.91
+            }, {
+                name: 'Proprietary or Undetectable',
+                y: 0.2
+            }]
+        }]
+    });
+});
+    </script>
+
+
+
 <body>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-  <script src="https://code.highcharts.com/highcharts.js"></script>
-  <script src="https://code.highcharts.com/modules/exporting.js"></script>
-
+ 
   <div class="header">
     <div class="container-fluid">
       
@@ -73,7 +198,7 @@
   <div class="content">
     <div class="row">
       <div class="col-md-12">
-        <h3><b style="color:#008000">MARKET HOME</b></h3>
+        <h3><b style="color:#008000">STOCK MARKET & STRATEGY</b></h3>
   </div>
 </div>
 

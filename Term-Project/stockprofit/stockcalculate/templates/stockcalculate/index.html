@@ -48,136 +48,72 @@
         <div style="width:65%;float:left;"  id="signup">   
           <h1> Stock Engine Sign Up </h1>
           
-          <form style="margin-top:8%;" action="register.php" method="post" enctype="multipart/form-data">
+          <form style="margin-top:8%;" action="/signup" method="get" enctype="multipart/form-data">
           
           <div class="top-row">
             <div class="field-wrap">
               <div style="width:15%;float:left;"><label>
-                First Name<span class="req">*</span>
+                User Name<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="firstname" required autocomplete="off" />
+              <input style="width:35%;margin-bottom:5px;" type="text" name="name" id="name" required autocomplete="off" />
 
                
             </div>
         
               <div class="field-wrap">
               <div style="width:15%;float:left;"><label>
-                Mid Name<span class="req">*</span>
+                Email Address<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="midname" />
+              <input style="width:35%;margin-bottom:5px;" type="email" name="email" id="email" />
                
             </div>
           
               
             <div class="field-wrap">
               <div style="width:15%;float:left;"><label>
-                Last Name<span class="req">*</span>
+              Set a Password<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="lastname" required autocomplete="off"/>
+              <input style="width:35%;margin-bottom:5px;" type="password" name="password" id="password" required autocomplete="off"/>
                
             </div>
-          </div>
-               <div class="field-wrap">
+
+
+            <div class="field-wrap">
               <div style="width:15%;float:left;"><label>
-                Date of Birth<span class="req">*</span>
+              Repeat-Pass<span class="req">*</span>
              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="date" name="datetime-local" />
-               </div>
-               <div class="field-wrap">
-               <label>
-               Sex<span class="req">* &nbsp;</span>
-      </label>
-        <input type="radio" name="gender" value="male"  /> Male
-      <input type="radio" name="gender" value="female" style="margin-left:15px;"/> Female
-      <input type="radio" name="gender" value="other" style="margin-left:15px;"/> Other
-      </label>
-      </div>
+              <input style="width:35%;margin-bottom:5px;" type="password" name="password1" id="password1" required autocomplete="off"/>
+               
+            </div>
          
-             
-        <div class="top-row">
-            <div class="field-wrap">
-              <div style="width:15%;float:left;"><label>
-                St. Address<span class="req">*</span>
-              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="Street_Address" required autocomplete="off" />
-              
-            </div>
-        
-              <div class="field-wrap">
-              <div style="width:15%;float:left;"><label>
-                City<span class="req">*</span>
-              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="city" required autocomplete="off"/>
-            </div>
-          
-              
-            <div class="field-wrap">
-              <div style="width:15%;float:left;"><label>
-                State<span class="req">*</span>
-              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="state" required autocomplete="off"/>
-            </div>
-          
-            <div class="field-wrap" >
-              <div style="width:15%;float:left;"><label>
-                Country<span class="req">*</span>
-              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="country" required autocomplete="off" />
-            </div>
-        
-              <div class="field-wrap" >
-              <div style="width:15%;float:left;"><label>
-                Pin Code<span class="req">*</span>
-              </label></div>
-              <input style="width:35%;margin-bottom:5px;" type="text" name="zipcode" required autocomplete="off"/>
-            </div>
-          </div>
-              
-        
-          <div class="field-wrap">
-            <div style="width:15%;float:left;"><label>
-              Email Address<span class="req">*</span>
-            </label></div>
-            <input style="width:35%;margin-bottom:5px;" type="email" name="email" required autocomplete="off"/>
-      
-          </div>
-          
-          <div class="field-wrap">
-            <div style="width:15%;float:left;"><label>
-              Set A Password<span class="req">*</span>
-            </label></div>
-            <input style="width:35%;margin-bottom:5px;" type="password" name="password" required autocomplete="off"/>
-          </div>
-              
-           <div class="field-wrap">User Type
-        <input style="margin-left:4%" type="radio" name="usertype" value="Patient"  /> Patient
-      <input style="margin-left:4%" type="radio" name="usertype" value="Employee" style="margin-left:15px;"/> Employee
-      
-          </div> 
-        
       <button style="width:50%;background-color:#393A3D;color:white;margin-top:3px;" type="submit" class="button button-block"/>Get Started</button>
           
           </form>
 
         </div>
-      <div ><img src="/static/img/app.png" height="380" width="380"></div>
-        <div style="width:35%;float:left;margin-top:1%;background-color:#99999B" id="login">   
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <div style="width:50%;float:left;margin-top:1%;background-color:#99999B" id="login">   
           <div style="margin-left:4%;"><h1>Login</h1>
           
-          <form action="login.php" method="post">
+          <form action="/login" method="get" enctype="multipart/form-data">
           
             <div class="field-wrap">
             <div style="width:34%;float:left;"><label>
-              Email Address<span class="req">*</span>
+              Username<span class="req">*</span>
             </label></div>
-            <input style="width:60%;margin-bottom:10px;" type="email" name="email" required autocomplete="off"/>
+            <input style="width:60%;margin-bottom:10px;" type="text" name="loginname" id="loginname" required autocomplete="off"/>
           </div>
           
           <div class="field-wrap">
             <div style="width:34%;float:left;"><label>
               Password<span class="req">*</span>
             </label></div>
-            <input style="width:60%;" type="password" name="password" required autocomplete="off"/>
+            <input style="width:60%;" type="password" name="loginpassword" id="loginpassword" required autocomplete="off"/>
           </div>
           
             <div style="margin-top:10px;" class="field-wrap"> 
@@ -196,7 +132,12 @@
 
        <script src="js/index.js"></script>   
 
-    
+    <div class="right-half">
+      <br>
+      <br>
+
+      <br><img src="/static/img/app.png" height="350" width="350"></div>
+
     </div>
 
 
